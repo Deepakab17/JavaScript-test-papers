@@ -86,6 +86,5 @@ let Login =()=>{
         alert("please enter valid password")
         return false
     }
-
-
+    location.href = "fetch.html"
 }
